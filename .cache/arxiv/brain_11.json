@@ -1,0 +1,148 @@
+{
+  "timestamp": "2025-05-09T22:27:21.678709",
+  "papers": [
+    {
+      "title": "Brain-to-Brain Communication Based on Wireless Technologies: Actual and\n  Future Perspectives",
+      "summary": "During the last few years, intensive research efforts are being done in the\nfield of brain interfaces to extract neuro-information from the signals\nrepresenting neuronal activities in the human brain. Recent development of\nbrain-to-computer interfaces support direct communication between animals'\nbrains, enabling direct brain-to-brain communication. Although these results\nare based on binary communication with relaxed requirements of latency and\nthroughput, the fast development in neuro-science technologies indicates\npotential new scenarios for wireless communications between brains. In this\npaper we highlight technologies that are being used today to enable\nbrain-to-brain communication and propose potential wireless communication\narchitectures and requirements for future scenarios.",
+      "url": "http://arxiv.org/abs/1912.12192v1",
+      "pdf_url": "http://arxiv.org/pdf/1912.12192v1",
+      "published": "2019-12-23T00:01:35Z",
+      "authors": [
+        "Dick Carrillo Melgarejo",
+        "Renan Moioli",
+        "Pedro Nardelli"
+      ]
+    },
+    {
+      "title": "MindSemantix: Deciphering Brain Visual Experiences with a Brain-Language\n  Model",
+      "summary": "Deciphering the human visual experience through brain activities captured by\nfMRI represents a compelling and cutting-edge challenge in the field of\nneuroscience research. Compared to merely predicting the viewed image itself,\ndecoding brain activity into meaningful captions provides a higher-level\ninterpretation and summarization of visual information, which naturally\nenhances the application flexibility in real-world situations. In this work, we\nintroduce MindSemantix, a novel multi-modal framework that enables LLMs to\ncomprehend visually-evoked semantic content in brain activity. Our MindSemantix\nexplores a more ideal brain captioning paradigm by weaving LLMs into brain\nactivity analysis, crafting a seamless, end-to-end Brain-Language Model. To\neffectively capture semantic information from brain responses, we propose\nBrain-Text Transformer, utilizing a Brain Q-Former as its core architecture. It\nintegrates a pre-trained brain encoder with a frozen LLM to achieve multi-modal\nalignment of brain-vision-language and establish a robust brain-language\ncorrespondence. To enhance the generalizability of neural representations, we\npre-train our brain encoder on a large-scale, cross-subject fMRI dataset using\nself-supervised learning techniques. MindSemantix provides more feasibility to\ndownstream brain decoding tasks such as stimulus reconstruction. Conditioned by\nMindSemantix captioning, our framework facilitates this process by integrating\nwith advanced generative models like Stable Diffusion and excels in\nunderstanding brain visual perception. MindSemantix generates high-quality\ncaptions that are deeply rooted in the visual and semantic information derived\nfrom brain activity. This approach has demonstrated substantial quantitative\nimprovements over prior art. Our code will be released.",
+      "url": "http://arxiv.org/abs/2405.18812v1",
+      "pdf_url": "http://arxiv.org/pdf/2405.18812v1",
+      "published": "2024-05-29T06:55:03Z",
+      "authors": [
+        "Ziqi Ren",
+        "Jie Li",
+        "Xuetong Xue",
+        "Xin Li",
+        "Fan Yang",
+        "Zhicheng Jiao",
+        "Xinbo Gao"
+      ]
+    },
+    {
+      "title": "Brain Energetics, Mitochondria, and Traumatic Brain Injury",
+      "summary": "We review current thinking about, and draw connections between, brain\nenergetics and metabolism, mitochondria and traumatic brain injury. In addition\nto summarizing current thinking in these disciplines, our goal is to suggest a\nframework for mechanisms and pathways based on optimal energetic decisions.",
+      "url": "http://arxiv.org/abs/1909.00012v1",
+      "pdf_url": "http://arxiv.org/pdf/1909.00012v1",
+      "published": "2019-08-30T18:00:40Z",
+      "authors": [
+        "Haym Benaroya"
+      ]
+    },
+    {
+      "title": "A differentiable brain simulator bridging brain simulation and\n  brain-inspired computing",
+      "summary": "Brain simulation builds dynamical models to mimic the structure and functions\nof the brain, while brain-inspired computing (BIC) develops intelligent systems\nby learning from the structure and functions of the brain. The two fields are\nintertwined and should share a common programming framework to facilitate each\nother's development. However, none of the existing software in the fields can\nachieve this goal, because traditional brain simulators lack differentiability\nfor training, while existing deep learning (DL) frameworks fail to capture the\nbiophysical realism and complexity of brain dynamics. In this paper, we\nintroduce BrainPy, a differentiable brain simulator developed using JAX and\nXLA, with the aim of bridging the gap between brain simulation and BIC. BrainPy\nexpands upon the functionalities of JAX, a powerful AI framework, by\nintroducing complete capabilities for flexible, efficient, and scalable brain\nsimulation. It offers a range of sparse and event-driven operators for\nefficient and scalable brain simulation, an abstraction for managing the\nintricacies of synaptic computations, a modular and flexible interface for\nconstructing multi-scale brain models, and an object-oriented just-in-time\ncompilation approach to handle the memory-intensive nature of brain dynamics.\nWe showcase the efficiency and scalability of BrainPy on benchmark tasks,\nhighlight its differentiable simulation for biologically plausible spiking\nmodels, and discuss its potential to support research at the intersection of\nbrain simulation and BIC.",
+      "url": "http://arxiv.org/abs/2311.05106v2",
+      "pdf_url": "http://arxiv.org/pdf/2311.05106v2",
+      "published": "2023-11-09T02:47:38Z",
+      "authors": [
+        "Chaoming Wang",
+        "Tianqiu Zhang",
+        "Sichao He",
+        "Hongyaoxing Gu",
+        "Shangyang Li",
+        "Si Wu"
+      ]
+    },
+    {
+      "title": "A New Brain Network Construction Paradigm for Brain Disorder via\n  Diffusion-based Graph Contrastive Learning",
+      "summary": "Brain network analysis plays an increasingly important role in studying brain\nfunction and the exploring of disease mechanisms. However, existing brain\nnetwork construction tools have some limitations, including dependency on\nempirical users, weak consistency in repeated experiments and time-consuming\nprocesses. In this work, a diffusion-based brain network pipeline, DGCL is\ndesigned for end-to-end construction of brain networks. Initially, the brain\nregion-aware module (BRAM) precisely determines the spatial locations of brain\nregions by the diffusion process, avoiding subjective parameter selection.\nSubsequently, DGCL employs graph contrastive learning to optimize brain\nconnections by eliminating individual differences in redundant connections\nunrelated to diseases, thereby enhancing the consistency of brain networks\nwithin the same group. Finally, the node-graph contrastive loss and\nclassification loss jointly constrain the learning process of the model to\nobtain the reconstructed brain network, which is then used to analyze important\nbrain connections. Validation on two datasets, ADNI and ABIDE, demonstrates\nthat DGCL surpasses traditional methods and other deep learning models in\npredicting disease development stages. Significantly, the proposed model\nimproves the efficiency and generalization of brain network construction. In\nsummary, the proposed DGCL can be served as a universal brain network\nconstruction scheme, which can effectively identify important brain connections\nthrough generative paradigms and has the potential to provide disease\ninterpretability support for neuroscience research.",
+      "url": "http://arxiv.org/abs/2407.18329v1",
+      "pdf_url": "http://arxiv.org/pdf/2407.18329v1",
+      "published": "2024-07-06T02:47:48Z",
+      "authors": [
+        "Yongcheng Zong",
+        "Shuqiang Wang"
+      ]
+    },
+    {
+      "title": "HyperBrain: Anomaly Detection for Temporal Hypergraph Brain Networks",
+      "summary": "Identifying unusual brain activity is a crucial task in neuroscience\nresearch, as it aids in the early detection of brain disorders. It is common to\nrepresent brain networks as graphs, and researchers have developed various\ngraph-based machine learning methods for analyzing them. However, the majority\nof existing graph learning tools for the brain face a combination of the\nfollowing three key limitations. First, they focus only on pairwise\ncorrelations between regions of the brain, limiting their ability to capture\nsynchronized activity among larger groups of regions. Second, they model the\nbrain network as a static network, overlooking the temporal changes in the\nbrain. Third, most are designed only for classifying brain networks as healthy\nor disordered, lacking the ability to identify abnormal brain activity patterns\nlinked to biomarkers associated with disorders. To address these issues, we\npresent HyperBrain, an unsupervised anomaly detection framework for temporal\nhypergraph brain networks. HyperBrain models fMRI time series data as temporal\nhypergraphs capturing dynamic higher-order interactions. It then uses a novel\ncustomized temporal walk (BrainWalk) and neural encodings to detect abnormal\nco-activations among brain regions. We evaluate the performance of HyperBrain\nin both synthetic and real-world settings for Autism Spectrum Disorder and\nAttention Deficit Hyperactivity Disorder(ADHD). HyperBrain outperforms all\nother baselines on detecting abnormal co-activations in brain networks.\nFurthermore, results obtained from HyperBrain are consistent with clinical\nresearch on these brain disorders. Our findings suggest that learning temporal\nand higher-order connections in the brain provides a promising approach to\nuncover intricate connectivity patterns in brain networks, offering improved\ndiagnosis.",
+      "url": "http://arxiv.org/abs/2410.02087v1",
+      "pdf_url": "http://arxiv.org/pdf/2410.02087v1",
+      "published": "2024-10-02T23:20:13Z",
+      "authors": [
+        "Sadaf Sadeghian",
+        "Xiaoxiao Li",
+        "Margo Seltzer"
+      ]
+    },
+    {
+      "title": "A Low-latency Communication Design for Brain Simulations",
+      "summary": "Brain simulation, as one of the latest advances in artificial intelligence,\nfacilitates better understanding about how information is represented and\nprocessed in the brain. The extreme complexity of human brain makes brain\nsimulations only feasible upon high-performance computing platforms.\nSupercomputers with a large number of interconnected graphical processing units\n(GPUs) are currently employed for supporting brain simulations. Therefore,\nhigh-throughput low-latency inter-GPU communications in supercomputers play a\ncrucial role in meeting the performance requirements of brain simulation as a\nhighly time-sensitive application. In this paper, we first provide an overview\nof the current parallelizing technologies for brain simulations using multi-GPU\narchitectures. Then, we analyze the challenges to communications for brain\nsimulation and summarize guidelines for communication design to address such\nchallenges. Furthermore, we propose a partitioning algorithm and a two-level\nrouting method to achieve efficient low-latency communications in multi-GPU\narchitecture for brain simulation. We report experiment results obtained on a\nsupercomputer with 2,000 GPUs for simulating a brain model with 10 billion\nneurons to show that our approach can significantly improve communication\nperformance. We also discuss open issues and identify some research directions\nfor low-latency communication design for brain simulations.",
+      "url": "http://arxiv.org/abs/2205.07125v1",
+      "pdf_url": "http://arxiv.org/pdf/2205.07125v1",
+      "published": "2022-05-14T20:26:29Z",
+      "authors": [
+        "Xin Du"
+      ]
+    },
+    {
+      "title": "The Wisdom of a Crowd of Brains: A Universal Brain Encoder",
+      "summary": "Image-to-fMRI encoding is important for both neuroscience research and\npractical applications. However, such \"Brain-Encoders\" have been typically\ntrained per-subject and per fMRI-dataset, thus restricted to very limited\ntraining data. In this paper we propose a Universal Brain-Encoder, which can be\ntrained jointly on data from many different subjects/datasets/machines. What\nmakes this possible is our new voxel-centric Encoder architecture, which learns\na unique \"voxel-embedding\" per brain-voxel. Our Encoder trains to predict the\nresponse of each brain-voxel on every image, by directly computing the\ncross-attention between the brain-voxel embedding and multi-level deep image\nfeatures. This voxel-centric architecture allows the functional role of each\nbrain-voxel to naturally emerge from the voxel-image cross-attention. We show\nthe power of this approach to (i) combine data from multiple different subjects\n(a \"Crowd of Brains\") to improve each individual brain-encoding, (ii) quick &\neffective Transfer-Learning across subjects, datasets, and machines (e.g.,\n3-Tesla, 7-Tesla), with few training examples, and (iii) use the learned\nvoxel-embeddings as a powerful tool to explore brain functionality (e.g., what\nis encoded where in the brain).",
+      "url": "http://arxiv.org/abs/2406.12179v2",
+      "pdf_url": "http://arxiv.org/pdf/2406.12179v2",
+      "published": "2024-06-18T01:17:07Z",
+      "authors": [
+        "Roman Beliy",
+        "Navve Wasserman",
+        "Amit Zalcher",
+        "Michal Irani"
+      ]
+    },
+    {
+      "title": "Biologically Plausible Brain Graph Transformer",
+      "summary": "State-of-the-art brain graph analysis methods fail to fully encode the\nsmall-world architecture of brain graphs (accompanied by the presence of hubs\nand functional modules), and therefore lack biological plausibility to some\nextent. This limitation hinders their ability to accurately represent the\nbrain's structural and functional properties, thereby restricting the\neffectiveness of machine learning models in tasks such as brain disorder\ndetection. In this work, we propose a novel Biologically Plausible Brain Graph\nTransformer (BioBGT) that encodes the small-world architecture inherent in\nbrain graphs. Specifically, we present a network entanglement-based node\nimportance encoding technique that captures the structural importance of nodes\nin global information propagation during brain graph communication,\nhighlighting the biological properties of the brain structure. Furthermore, we\nintroduce a functional module-aware self-attention to preserve the functional\nsegregation and integration characteristics of brain graphs in the learned\nrepresentations. Experimental results on three benchmark datasets demonstrate\nthat BioBGT outperforms state-of-the-art models, enhancing biologically\nplausible brain graph representations for various brain graph analytical tasks",
+      "url": "http://arxiv.org/abs/2502.08958v1",
+      "pdf_url": "http://arxiv.org/pdf/2502.08958v1",
+      "published": "2025-02-13T04:51:18Z",
+      "authors": [
+        "Ciyuan Peng",
+        "Yuelong Huang",
+        "Qichao Dong",
+        "Shuo Yu",
+        "Feng Xia",
+        "Chengqi Zhang",
+        "Yaochu Jin"
+      ]
+    },
+    {
+      "title": "Dynamic Brain Transformer with Multi-level Attention for Functional\n  Brain Network Analysis",
+      "summary": "Recent neuroimaging studies have highlighted the importance of\nnetwork-centric brain analysis, particularly with functional magnetic resonance\nimaging. The emergence of Deep Neural Networks has fostered a substantial\ninterest in predicting clinical outcomes and categorizing individuals based on\nbrain networks. However, the conventional approach involving static brain\nnetwork analysis offers limited potential in capturing the dynamism of brain\nfunction. Although recent studies have attempted to harness dynamic brain\nnetworks, their high dimensionality and complexity present substantial\nchallenges. This paper proposes a novel methodology, Dynamic bRAin Transformer\n(DART), which combines static and dynamic brain networks for more effective and\nnuanced brain function analysis. Our model uses the static brain network as a\nbaseline, integrating dynamic brain networks to enhance performance against\ntraditional methods. We innovatively employ attention mechanisms, enhancing\nmodel explainability and exploiting the dynamic brain network's temporal\nvariations. The proposed approach offers a robust solution to the low\nsignal-to-noise ratio of blood-oxygen-level-dependent signals, a recurring\nissue in direct DNN modeling. It also provides valuable insights into which\nbrain circuits or dynamic networks contribute more to final predictions. As\nsuch, DRAT shows a promising direction in neuroimaging studies, contributing to\nthe comprehensive understanding of brain organization and the role of neural\ncircuits.",
+      "url": "http://arxiv.org/abs/2309.01941v1",
+      "pdf_url": "http://arxiv.org/pdf/2309.01941v1",
+      "published": "2023-09-05T04:17:37Z",
+      "authors": [
+        "Xuan Kan",
+        "Antonio Aodong Chen Gu",
+        "Hejie Cui",
+        "Ying Guo",
+        "Carl Yang"
+      ]
+    },
+    {
+      "title": "TiBGL: Template-induced Brain Graph Learning for Functional Neuroimaging\n  Analysis",
+      "summary": "In recent years, functional magnetic resonance imaging has emerged as a\npowerful tool for investigating the human brain's functional connectivity\nnetworks. Related studies demonstrate that functional connectivity networks in\nthe human brain can help to improve the efficiency of diagnosing neurological\ndisorders. However, there still exist two challenges that limit the progress of\nfunctional neuroimaging. Firstly, there exists an abundance of noise and\nredundant information in functional connectivity data, resulting in poor\nperformance. Secondly, existing brain network models have tended to prioritize\neither classification performance or the interpretation of neuroscience\nfindings behind the learned models. To deal with these challenges, this paper\nproposes a novel brain graph learning framework called Template-induced Brain\nGraph Learning (TiBGL), which has both discriminative and interpretable\nabilities. Motivated by the related medical findings on functional\nconnectivites, TiBGL proposes template-induced brain graph learning to extract\ntemplate brain graphs for all groups. The template graph can be regarded as an\naugmentation process on brain networks that removes noise information and\nhighlights important connectivity patterns. To simultaneously support the tasks\nof discrimination and interpretation, TiBGL further develops template-induced\nconvolutional neural network and template-induced brain interpretation\nanalysis. Especially, the former fuses rich information from brain graphs and\ntemplate brain graphs for brain disorder tasks, and the latter can provide\ninsightful connectivity patterns related to brain disorders based on template\nbrain graphs. Experimental results on three real-world datasets show that the\nproposed TiBGL can achieve superior performance compared with nine\nstate-of-the-art methods and keep coherent with neuroscience findings in recent\nliteratures.",
+      "url": "http://arxiv.org/abs/2309.07947v1",
+      "pdf_url": "http://arxiv.org/pdf/2309.07947v1",
+      "published": "2023-09-14T15:17:42Z",
+      "authors": [
+        "Xiangzhu Meng",
+        "Wei Wei",
+        "Qiang Liu",
+        "Shu Wu",
+        "Liang Wang"
+      ]
+    }
+  ]
+}

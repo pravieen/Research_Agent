@@ -1,0 +1,133 @@
+{
+  "timestamp": "2025-05-09T22:25:24.950193",
+  "papers": [
+    {
+      "title": "Leader neurons in leaky integrate and fire neural network simulations",
+      "summary": "Several experimental studies show the existence of leader neurons in\npopulation bursts of 2D living neural networks. A leader neuron is, basically,\na neuron which fires at the beginning of a burst (respectively network spike)\nmore often that we expect by looking at its whole mean neural activity. This\nmeans that leader neurons have some burst triggering power beyond a simple\nstatistical effect. In this study, we characterize these leader neuron\nproperties. This naturally leads us to simulate neural 2D networks. To build\nour simulations, we choose the leaky integrate and fire (lIF) neuron model. Our\nlIF model has got stable leader neurons in the burst population that we\nsimulate. These leader neurons are excitatory neurons and have a low membrane\npotential firing threshold. Except for these two first properties, the\nconditions required for a neuron to be a leader neuron are difficult to\nidentify and seem to depend on several parameters involved in the simulations\nthemself. However, a detailed linear analysis shows a trend of the properties\nrequired for a neuron to be a leader neuron. Our main finding is: A leader\nneuron sends a signal to many excitatory neurons as well as to a few inhibitory\nneurons and a leader neuron receives only a few signals from other excitatory\nneurons. Our linear analysis exhibits five essential properties for leader\nneurons with relative importance. This means that considering a given neural\nnetwork with a fixed mean number of connections per neuron, our analysis gives\nus a way of predicting which neuron can be a good leader neuron and which\ncannot. Our prediction formula gives us a good statistical prediction even if,\nconsidering a single given neuron, the success rate does not reach hundred\npercent.",
+      "url": "http://arxiv.org/abs/1004.2787v1",
+      "pdf_url": "http://arxiv.org/pdf/1004.2787v1",
+      "published": "2010-04-16T08:48:40Z",
+      "authors": [
+        "Cyrille Zbinden"
+      ]
+    },
+    {
+      "title": "Stochastic mechanism for improving selectivity of olfactory projection\n  neurons",
+      "summary": "A mechanism is proposed for increasing selectivity of olfactory bulb\nprojection neurons as compared to the olfactory receptor neurons, which could\noperate under low odor concentration, when the lateral inhibition mechanism\nbecomes inefficient. The mechanism proposed is based on the threshold-type\nreaction to stimuli a projection neuron receives from the receptor neurons, the\nstochastic nature of those stimuli and electrical leakage in the projection\nneurons. The mechanism operates at the level of individual projection neuron\nand does not require involvement of other bulbar neurons.\n  Keywords: olfactory receptor neuron; projection neuron; selectivity;\nstochastic process; theory",
+      "url": "http://arxiv.org/abs/1904.08767v1",
+      "pdf_url": "http://arxiv.org/pdf/1904.08767v1",
+      "published": "2019-04-18T13:33:08Z",
+      "authors": [
+        "Alexander Vidybida"
+      ]
+    },
+    {
+      "title": "Information processing at single neuron level",
+      "summary": "Based on numerical simulation of Hodgkin and Huxley type neuron stimulated\nfrom many synaptic inputs, an abstract concept of signal processing in\nindividual neuron is proposed. In the concept proposed, neuron performs binding\nof synaptic inputs into a single output event, based on the degree of temporal\ncoherence between the inputs. Inhibition serves as controlling factor of this\ntype of binding.",
+      "url": "http://arxiv.org/abs/0801.0250v1",
+      "pdf_url": "http://arxiv.org/pdf/0801.0250v1",
+      "published": "2007-12-31T23:17:54Z",
+      "authors": [
+        "A. K. Vidybida"
+      ]
+    },
+    {
+      "title": "Neuron Platonic Intrinsic Representation From Dynamics Using Contrastive\n  Learning",
+      "summary": "The Platonic Representation Hypothesis suggests a universal,\nmodality-independent reality representation behind different data modalities.\nInspired by this, we view each neuron as a system and detect its multi-segment\nactivity data under various peripheral conditions. We assume there's a\ntime-invariant representation for the same neuron, reflecting its intrinsic\nproperties like molecular profiles, location, and morphology. The goal of\nobtaining these intrinsic neuronal representations has two criteria: (I)\nsegments from the same neuron should have more similar representations than\nthose from different neurons; (II) the representations must generalize well to\nout-of-domain data. To meet these, we propose the NeurPIR (Neuron Platonic\nIntrinsic Representation) framework. It uses contrastive learning, with\nsegments from the same neuron as positive pairs and those from different\nneurons as negative pairs. In implementation, we use VICReg, which focuses on\npositive pairs and separates dissimilar samples via regularization. We tested\nour method on Izhikevich model-simulated neuronal population dynamics data. The\nresults accurately identified neuron types based on preset hyperparameters. We\nalso applied it to two real-world neuron dynamics datasets with neuron type\nannotations from spatial transcriptomics and neuron locations. Our model's\nlearned representations accurately predicted neuron types and locations and\nwere robust on out-of-domain data (from unseen animals). This shows the\npotential of our approach for understanding neuronal systems and future\nneuroscience research.",
+      "url": "http://arxiv.org/abs/2502.10425v2",
+      "pdf_url": "http://arxiv.org/pdf/2502.10425v2",
+      "published": "2025-02-06T02:22:23Z",
+      "authors": [
+        "Wei Wu",
+        "Can Liao",
+        "Zizhen Deng",
+        "Zhengrui Guo",
+        "Jinzhuo Wang"
+      ]
+    },
+    {
+      "title": "Error correction and fast detectors implemented by ultra-fast neuronal\n  plasticity",
+      "summary": "We experimentally show that the neuron functions as a precise\ntime-integrator, where the accumulated changes in neuronal response latencies,\nunder complex and random stimulation patterns, are solely a function of a\nglobal quantity, the average time-lag between stimulations. In contrast,\nmomentary leaps in the neuronal response latency follow trends of consecutive\nstimulations, indicating ultra-fast neuronal plasticity. On a circuit level,\nthis ultra-fast neuronal plasticity phenomenon implements error-correction\nmechanisms and fast detectors for misplaced stimulations. Additionally, at\nmoderate/high stimulation rates this phenomenon destabilizes/stabilizes a\nperiodic neuronal activity disrupted by misplaced stimulations.",
+      "url": "http://arxiv.org/abs/1404.2445v1",
+      "pdf_url": "http://arxiv.org/pdf/1404.2445v1",
+      "published": "2014-04-09T11:44:27Z",
+      "authors": [
+        "Roni Vardi",
+        "Hagar Marmari",
+        "Ido Kanter"
+      ]
+    },
+    {
+      "title": "Two distinct desynchronization processes caused by lesions in globally\n  coupled neurons",
+      "summary": "To accomplish a task, the brain works like a synchronized neuronal network\nwhere all the involved neurons work together. When a lesion spreads in the\nbrain, depending on its evolution, it can reach a significant portion of\nrelevant area. As a consequence, a phase transition might occur: the neurons\ndesynchronize and cannot perform a certain task anymore. Lesions are\nresponsible for either disrupting the neuronal connections or, in some cases,\nfor killing the neuron. In this work, we will use a simplified model of\nneuronal network to show that these two types of lesions cause different types\nof desynchronization.",
+      "url": "http://arxiv.org/abs/1510.01732v1",
+      "pdf_url": "http://arxiv.org/pdf/1510.01732v1",
+      "published": "2015-10-06T10:51:49Z",
+      "authors": [
+        "Fabiano A. S. Ferrari",
+        "Ricardo L. Viana"
+      ]
+    },
+    {
+      "title": "Bursting and Synchrony in Networks of Model Neurons",
+      "summary": "Bursting neurons are considered to be a potential cause of over-excitability\nand seizure susceptibility. The functional influence of these neurons in\nextended epileptic networks is still poorly understood. There is mounting\nevidence that the dynamics of neuronal networks is influenced not only by\nneuronal and synaptic properties but also by network topology. We investigate\nnumerically the influence of different neuron dynamics on global synchrony in\nneuronal networks with complex connection topologies.",
+      "url": "http://arxiv.org/abs/1610.01898v1",
+      "pdf_url": "http://arxiv.org/pdf/1610.01898v1",
+      "published": "2016-10-06T14:52:22Z",
+      "authors": [
+        "Christian Geier",
+        "Alexander Rothkegel",
+        "Christian E. Elger",
+        "Klaus Lehnertz"
+      ]
+    },
+    {
+      "title": "Spikes can transmit neurons' subthreshold membrane potentials",
+      "summary": "Neurons primarily communicate through the emission of action potentials, or\nspikes. To generate a spike, a neuron's membrane potential must cross a defined\nthreshold. Does this spiking mechanism inherently prevent neurons from\ntransmitting their subthreshold membrane potential fluctuations to other\nneurons? We prove that, in theory, it does not. The subthreshold membrane\npotential fluctuations of a presynaptic population of spiking neurons can be\nperfectly transmitted to a downstream population of neurons. Mathematically,\nthis surprising result is an example of concentration phenomenon in high\ndimensions.",
+      "url": "http://arxiv.org/abs/2501.13845v1",
+      "pdf_url": "http://arxiv.org/pdf/2501.13845v1",
+      "published": "2025-01-23T17:13:49Z",
+      "authors": [
+        "Valentin Schmutz"
+      ]
+    },
+    {
+      "title": "Neuron to Graph: Interpreting Language Model Neurons at Scale",
+      "summary": "Advances in Large Language Models (LLMs) have led to remarkable capabilities,\nyet their inner mechanisms remain largely unknown. To understand these models,\nwe need to unravel the functions of individual neurons and their contribution\nto the network. This paper introduces a novel automated approach designed to\nscale interpretability techniques across a vast array of neurons within LLMs,\nto make them more interpretable and ultimately safe. Conventional methods\nrequire examination of examples with strong neuron activation and manual\nidentification of patterns to decipher the concepts a neuron responds to. We\npropose Neuron to Graph (N2G), an innovative tool that automatically extracts a\nneuron's behaviour from the dataset it was trained on and translates it into an\ninterpretable graph. N2G uses truncation and saliency methods to emphasise only\nthe most pertinent tokens to a neuron while enriching dataset examples with\ndiverse samples to better encompass the full spectrum of neuron behaviour.\nThese graphs can be visualised to aid researchers' manual interpretation, and\ncan generate token activations on text for automatic validation by comparison\nwith the neuron's ground truth activations, which we use to show that the model\nis better at predicting neuron activation than two baseline methods. We also\ndemonstrate how the generated graph representations can be flexibly used to\nfacilitate further automation of interpretability research, by searching for\nneurons with particular properties, or programmatically comparing neurons to\neach other to identify similar neurons. Our method easily scales to build graph\nrepresentations for all neurons in a 6-layer Transformer model using a single\nTesla T4 GPU, allowing for wide usability. We release the code and instructions\nfor use at https://github.com/alexjfoote/Neuron2Graph.",
+      "url": "http://arxiv.org/abs/2305.19911v1",
+      "pdf_url": "http://arxiv.org/pdf/2305.19911v1",
+      "published": "2023-05-31T14:44:33Z",
+      "authors": [
+        "Alex Foote",
+        "Neel Nanda",
+        "Esben Kran",
+        "Ioannis Konstas",
+        "Shay Cohen",
+        "Fazl Barez"
+      ]
+    },
+    {
+      "title": "Single Biological Neurons as Temporally Precise Spatio-Temporal Pattern\n  Recognizers",
+      "summary": "This PhD thesis is focused on the central idea that single neurons in the\nbrain should be regarded as temporally precise and highly complex\nspatio-temporal pattern recognizers. This is opposed to the prevalent view of\nbiological neurons as simple and mainly spatial pattern recognizers by most\nneuroscientists today. In this thesis, I will attempt to demonstrate that this\nis an important distinction, predominantly because the above-mentioned\ncomputational properties of single neurons have far-reaching implications with\nrespect to the various brain circuits that neurons compose, and on how\ninformation is encoded by neuronal activity in the brain. Namely, that these\nparticular \"low-level\" details at the single neuron level have substantial\nsystem-wide ramifications. In the introduction we will highlight the main\ncomponents that comprise a neural microcircuit that can perform useful\ncomputations and illustrate the inter-dependence of these components from a\nsystem perspective. In chapter 1 we discuss the great complexity of the\nspatio-temporal input-output relationship of cortical neurons that are the\nresult of morphological structure and biophysical properties of the neuron. In\nchapter 2 we demonstrate that single neurons can generate temporally precise\noutput patterns in response to specific spatio-temporal input patterns with a\nvery simple biologically plausible learning rule. In chapter 3, we use the\ndifferentiable deep network analog of a realistic cortical neuron as a tool to\napproximate the gradient of the output of the neuron with respect to its input\nand use this capability in an attempt to teach the neuron to perform nonlinear\nXOR operation. In chapter 4 we expand chapter 3 to describe extension of our\nideas to neuronal networks composed of many realistic biological spiking\nneurons that represent either small microcircuits or entire brain regions.",
+      "url": "http://arxiv.org/abs/2309.15090v1",
+      "pdf_url": "http://arxiv.org/pdf/2309.15090v1",
+      "published": "2023-09-26T17:32:08Z",
+      "authors": [
+        "David Beniaguev"
+      ]
+    },
+    {
+      "title": "Should Under-parameterized Student Networks Copy or Average Teacher\n  Weights?",
+      "summary": "Any continuous function $f^*$ can be approximated arbitrarily well by a\nneural network with sufficiently many neurons $k$. We consider the case when\n$f^*$ itself is a neural network with one hidden layer and $k$ neurons.\nApproximating $f^*$ with a neural network with $n< k$ neurons can thus be seen\nas fitting an under-parameterized \"student\" network with $n$ neurons to a\n\"teacher\" network with $k$ neurons. As the student has fewer neurons than the\nteacher, it is unclear, whether each of the $n$ student neurons should copy one\nof the teacher neurons or rather average a group of teacher neurons. For\nshallow neural networks with erf activation function and for the standard\nGaussian input distribution, we prove that \"copy-average\" configurations are\ncritical points if the teacher's incoming vectors are orthonormal and its\noutgoing weights are unitary. Moreover, the optimum among such configurations\nis reached when $n-1$ student neurons each copy one teacher neuron and the\n$n$-th student neuron averages the remaining $k-n+1$ teacher neurons. For the\nstudent network with $n=1$ neuron, we provide additionally a closed-form\nsolution of the non-trivial critical point(s) for commonly used activation\nfunctions through solving an equivalent constrained optimization problem.\nEmpirically, we find for the erf activation function that gradient flow\nconverges either to the optimal copy-average critical point or to another point\nwhere each student neuron approximately copies a different teacher neuron.\nFinally, we find similar results for the ReLU activation function, suggesting\nthat the optimal solution of underparameterized networks has a universal\nstructure.",
+      "url": "http://arxiv.org/abs/2311.01644v2",
+      "pdf_url": "http://arxiv.org/pdf/2311.01644v2",
+      "published": "2023-11-03T00:21:36Z",
+      "authors": [
+        "Berfin \u015eim\u015fek",
+        "Amire Bendjeddou",
+        "Wulfram Gerstner",
+        "Johanni Brea"
+      ]
+    }
+  ]
+}

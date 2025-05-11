@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-05-09T23:09:40.440496",
+  "papers": [
+    {
+      "title": "The Detection of Saccadic Eye Movements and Per-Eye Comparisons using\n  Virtual Reality Eye Tracking Devices",
+      "summary": "Eye tracking has been found to be useful in various tasks including\ndiagnostic and screening tools. However, traditional eye trackers had a\ncomplicated setup and operated at a higher frequency to measure eye movements.\nThe use of more commonly available eye trackers such as those in head-mounted\nvirtual reality (VR) headsets greatly expands the utility of these eye trackers\nfor research and analytical purposes. In this study, the research question is\nfocused on detecting saccades, which is a common task when analyzing eye\ntracking data, but it is not well-established for VR headset-mounted eye\ntrackers. The aim is to determine how accurately saccadic eye movements can be\ndetected using an eye tracker that operates at 60 or 90Hz. The study involves\nVR eye tracking technology and neuroscience with respect to saccadic eye\nmovements. The goal is to build prototype software implemented using VR eye\ntracking technology to detect saccadic eye movements, and per-eye differences\nin an individual. It is anticipated that the software will be able to\naccurately detect when saccades occur and analyze the differences in saccadic\neye movements per-eye. The field of research surrounding VR eye tracking\nsoftware is still developing rapidly, specifically its applications to\nneuroscience. Since previous methods of eye tracking involved specialized\nequipment, using commercially and consumer available VR eye tracking technology\nto assist in the detection of saccades and per-eye differences would be novel.\nThis project will impact the field of neuroscience by providing a tool that can\nbe used to detect saccadic eye movements and neurological and neurodegenerative\ndisorders. However, this project is limited by the short time frame and that\nthe eye tracker used in this study operates at a maximum frequency of 90Hz.",
+      "url": "http://arxiv.org/abs/2503.08926v1",
+      "pdf_url": "http://arxiv.org/pdf/2503.08926v1",
+      "published": "2025-03-11T22:15:39Z",
+      "authors": [
+        "Teran Bukenberger",
+        "Brent Davis"
+      ]
+    },
+    {
+      "title": "Eye Tracker Accuracy: Quantitative Evaluation of the Invisible Eye\n  Center Location",
+      "summary": "Purpose. We present a new method to evaluate the accuracy of an eye tracker\nbased eye localization system. Measuring the accuracy of an eye tracker's\nprimary intention, the estimated point of gaze, is usually done with volunteers\nand a set of fixation points used as ground truth. However, verifying the\naccuracy of the location estimate of a volunteer's eye center in 3D space is\nnot easily possible. This is because the eye center is an intangible point\nhidden by the iris. Methods. We evaluate the eye location accuracy by using an\neye phantom instead of eyes of volunteers. For this, we developed a testing\nstage with a realistic artificial eye and a corresponding kinematic model,\nwhich we trained with {\\mu}CT data. This enables us to precisely evaluate the\neye location estimate of an eye tracker. Results. We show that the proposed\ntesting stage with the corresponding kinematic model is suitable for such a\nvalidation. Further, we evaluate a particular eye tracker based navigation\nsystem and show that this system is able to successfully determine the eye\ncenter with sub-millimeter accuracy. Conclusions. We show the suitability of\nthe evaluated eye tracker for eye interventions, using the proposed testing\nstage and the corresponding kinematic model. The results further enable\nspecific enhancement of the navigation system to potentially get even better\nresults.",
+      "url": "http://arxiv.org/abs/1705.07589v1",
+      "pdf_url": "http://arxiv.org/pdf/1705.07589v1",
+      "published": "2017-05-22T07:35:34Z",
+      "authors": [
+        "Stephan Wyder",
+        "Philippe C. Cattin"
+      ]
+    },
+    {
+      "title": "Your Eyes Say You're Lying: An Eye Movement Pattern Analysis for Face\n  Familiarity and Deceptive Cognition",
+      "summary": "Eye movement patterns reflect human latent internal cognitive activities. We\naim to discover eye movement patterns during face recognition under different\ncognitions of information concealing. These cognitions include the degrees of\nface familiarity and deception or not, namely telling the truth when observing\nfamiliar and unfamiliar faces, and deceiving in front of familiar faces. We\napply Hidden Markov models with Gaussian emission to generalize regions and\ntrajectories of eye fixation points under the above three conditions. Our\nresults show that both eye movement patterns and eye gaze regions become\nsignificantly different during deception compared with truth-telling. We show\nthe feasibility of detecting deception and further cognitive activity\nclassification using eye movement patterns.",
+      "url": "http://arxiv.org/abs/1811.03401v1",
+      "pdf_url": "http://arxiv.org/pdf/1811.03401v1",
+      "published": "2018-11-08T13:32:53Z",
+      "authors": [
+        "Jiaxu Zuo",
+        "Tom Gedeon",
+        "Zhenyue Qin"
+      ]
+    },
+    {
+      "title": "An Assessment of the Eye Tracking Signal Quality Captured in the\n  HoloLens 2",
+      "summary": "We present an analysis of the eye tracking signal quality of the HoloLens 2s\nintegrated eye tracker. Signal quality was measured from eye movement data\ncaptured during a random saccades task from a new eye movement dataset\ncollected on 30 healthy adults. We characterize the eye tracking signal quality\nof the device in terms of spatial accuracy, spatial precision, temporal\nprecision, linearity, and crosstalk. Most notably, our evaluation of spatial\naccuracy reveals that the eye movement data in our dataset appears to be\nuncalibrated. Recalibrating the data using a subset of our dataset task\nproduces notably better eye tracking signal quality.",
+      "url": "http://arxiv.org/abs/2111.07209v2",
+      "pdf_url": "http://arxiv.org/pdf/2111.07209v2",
+      "published": "2021-11-14T00:10:24Z",
+      "authors": [
+        "Samantha D. Aziz",
+        "Oleg V. Komogortsev"
+      ]
+    },
+    {
+      "title": "Bayesian Eye Tracking",
+      "summary": "Model-based eye tracking has been a dominant approach for eye gaze tracking\nbecause of its ability to generalize to different subjects, without the need of\nany training data and eye gaze annotations. Model-based eye tracking, however,\nis susceptible to eye feature detection errors, in particular for eye tracking\nin the wild. To address this issue, we propose a Bayesian framework for\nmodel-based eye tracking. The proposed system consists of a cascade-Bayesian\nConvolutional Neural Network (c-BCNN) to capture the probabilistic\nrelationships between eye appearance and its landmarks, and a geometric eye\nmodel to estimate eye gaze from the eye landmarks. Given a testing eye image,\nthe Bayesian framework can generate, through Bayesian inference, the eye gaze\ndistribution without explicit landmark detection and model training, based on\nwhich it not only estimates the most likely eye gaze but also its uncertainty.\nFurthermore, with Bayesian inference instead of point-based inference, our\nmodel can not only generalize better to different sub-jects, head poses, and\nenvironments but also is robust to image noise and landmark detection errors.\nFinally, with the estimated gaze uncertainty, we can construct a cascade\narchitecture that allows us to progressively improve gaze estimation accuracy.\nCompared to state-of-the-art model-based and learning-based methods, the\nproposed Bayesian framework demonstrates significant improvement in\ngeneralization capability across several benchmark datasets and in accuracy and\nrobustness under challenging real-world conditions.",
+      "url": "http://arxiv.org/abs/2106.13387v1",
+      "pdf_url": "http://arxiv.org/pdf/2106.13387v1",
+      "published": "2021-06-25T02:08:03Z",
+      "authors": [
+        "Qiang Ji",
+        "Kang Wang"
+      ]
+    }
+  ]
+}

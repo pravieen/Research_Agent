@@ -1,0 +1,97 @@
+{
+  "timestamp": "2025-05-11T00:37:23.351854",
+  "papers": [
+    {
+      "title": "Accelerating drug discovery with Artificial: a whole-lab orchestration\n  and scheduling system for self-driving labs",
+      "summary": "Self-driving labs are transforming drug discovery by enabling automated,\nAI-guided experimentation, but they face challenges in orchestrating complex\nworkflows, integrating diverse instruments and AI models, and managing data\nefficiently. Artificial addresses these issues with a comprehensive\norchestration and scheduling system that unifies lab operations, automates\nworkflows, and integrates AI-driven decision-making. By incorporating AI/ML\nmodels like NVIDIA BioNeMo - which facilitates molecular interaction prediction\nand biomolecular analysis - Artificial enhances drug discovery and accelerates\ndata-driven research. Through real-time coordination of instruments, robots,\nand personnel, the platform streamlines experiments, enhances reproducibility,\nand advances drug discovery.",
+      "url": "http://arxiv.org/abs/2504.00986v1",
+      "pdf_url": "http://arxiv.org/pdf/2504.00986v1",
+      "published": "2025-04-01T17:22:50Z",
+      "authors": [
+        "Yao Fehlis",
+        "Paul Mandel",
+        "Charles Crain",
+        "Betty Liu",
+        "David Fuller"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence Approaches for Anti-Addiction Drug Discovery",
+      "summary": "Drug addiction is a complex and pervasive global challenge that continues to\npose significant public health concerns. Traditional approaches to\nanti-addiction drug discovery have struggled to deliver effective therapeutics,\nfacing high attrition rates, long development timelines, and inefficiencies in\nprocessing large-scale data. Artificial intelligence (AI) has emerged as a\ntransformative solution to address these issues. Using advanced algorithms, AI\nis revolutionizing drug discovery by enhancing the speed and precision of key\nprocesses. This review explores the transformative role of AI in the pipeline\nfor anti-addiction drug discovery, including data collection, target\nidentification, and compound optimization. By highlighting the potential of AI\nto overcome traditional barriers, this review systematically examines how AI\naddresses critical gaps in anti-addiction research, emphasizing its potential\nto revolutionize drug discovery and development, overcome challenges, and\nadvance more effective therapeutic strategies.",
+      "url": "http://arxiv.org/abs/2502.03606v2",
+      "pdf_url": "http://arxiv.org/pdf/2502.03606v2",
+      "published": "2025-02-05T20:49:02Z",
+      "authors": [
+        "Dong Chen",
+        "Jian Jiang",
+        "Zhe Su",
+        "Guo-Wei Wei"
+      ]
+    },
+    {
+      "title": "DrugAgent: Automating AI-aided Drug Discovery Programming through LLM\n  Multi-Agent Collaboration",
+      "summary": "Recent progress in Large Language Models (LLMs) has drawn attention to their\npotential for accelerating drug discovery. However, a central problem remains:\ntranslating theoretical ideas into robust implementations in the highly\nspecialized context of pharmaceutical research. This limitation prevents\npractitioners from making full use of the latest AI developments in drug\ndiscovery. To address this challenge, we introduce DrugAgent, a multi-agent\nframework that automates machine learning (ML) programming for drug discovery\ntasks. DrugAgent employs an LLM Planner that formulates high-level ideas and an\nLLM Instructor that identifies and integrates domain knowledge when\nimplementing those ideas. We present case studies on three representative drug\ndiscovery tasks. Our results show that DrugAgent consistently outperforms\nleading baselines, including a relative improvement of 4.92% in ROC-AUC\ncompared to ReAct for drug-target interaction (DTI). DrugAgent is publicly\navailable at https://anonymous.4open.science/r/drugagent-5C42/.",
+      "url": "http://arxiv.org/abs/2411.15692v2",
+      "pdf_url": "http://arxiv.org/pdf/2411.15692v2",
+      "published": "2024-11-24T03:06:59Z",
+      "authors": [
+        "Sizhe Liu",
+        "Yizhou Lu",
+        "Siyu Chen",
+        "Xiyang Hu",
+        "Jieyu Zhao",
+        "Yingzhou Lu",
+        "Yue Zhao"
+      ]
+    },
+    {
+      "title": "ChatGPT in Drug Discovery: A Case Study on Anti-Cocaine Addiction Drug\n  Development with Chatbots",
+      "summary": "The birth of ChatGPT, a cutting-edge language model-based chatbot developed\nby OpenAI, ushered in a new era in AI. However, due to potential pitfalls, its\nrole in rigorous scientific research is not clear yet. This paper vividly\nshowcases its innovative application within the field of drug discovery.\nFocused specifically on developing anti-cocaine addiction drugs, the study\nemploys GPT-4 as a virtual guide, offering strategic and methodological\ninsights to researchers working on generative models for drug candidates. The\nprimary objective is to generate optimal drug-like molecules with desired\nproperties. By leveraging the capabilities of ChatGPT, the study introduces a\nnovel approach to the drug discovery process. This symbiotic partnership\nbetween AI and researchers transforms how drug development is approached.\nChatbots become facilitators, steering researchers towards innovative\nmethodologies and productive paths for creating effective drug candidates. This\nresearch sheds light on the collaborative synergy between human expertise and\nAI assistance, wherein ChatGPT's cognitive abilities enhance the design and\ndevelopment of potential pharmaceutical solutions. This paper not only explores\nthe integration of advanced AI in drug discovery but also reimagines the\nlandscape by advocating for AI-powered chatbots as trailblazers in\nrevolutionizing therapeutic innovation.",
+      "url": "http://arxiv.org/abs/2308.06920v2",
+      "pdf_url": "http://arxiv.org/pdf/2308.06920v2",
+      "published": "2023-08-14T03:43:57Z",
+      "authors": [
+        "Rui Wang",
+        "Hongsong Feng",
+        "Guo-Wei Wei"
+      ]
+    },
+    {
+      "title": "Structure-based drug discovery with deep learning",
+      "summary": "Artificial intelligence (AI) in the form of deep learning bears promise for\ndrug discovery and chemical biology, $\\textit{e.g.}$, to predict protein\nstructure and molecular bioactivity, plan organic synthesis, and design\nmolecules $\\textit{de novo}$. While most of the deep learning efforts in drug\ndiscovery have focused on ligand-based approaches, structure-based drug\ndiscovery has the potential to tackle unsolved challenges, such as affinity\nprediction for unexplored protein targets, binding-mechanism elucidation, and\nthe rationalization of related chemical kinetic properties. Advances in deep\nlearning methodologies and the availability of accurate predictions for protein\ntertiary structure advocate for a $\\textit{renaissance}$ in structure-based\napproaches for drug discovery guided by AI. This review summarizes the most\nprominent algorithmic concepts in structure-based deep learning for drug\ndiscovery, and forecasts opportunities, applications, and challenges ahead.",
+      "url": "http://arxiv.org/abs/2212.13295v1",
+      "pdf_url": "http://arxiv.org/pdf/2212.13295v1",
+      "published": "2022-12-26T20:52:26Z",
+      "authors": [
+        "R\u0131za \u00d6z\u00e7elik",
+        "Derek van Tilborg",
+        "Jos\u00e9 Jim\u00e9nez-Luna",
+        "Francesca Grisoni"
+      ]
+    },
+    {
+      "title": "On How AI Needs to Change to Advance the Science of Drug Discovery",
+      "summary": "Research around AI for Science has seen significant success since the rise of\ndeep learning models over the past decade, even with longstanding challenges\nsuch as protein structure prediction. However, this fast development inevitably\nmade their flaws apparent -- especially in domains of reasoning where\nunderstanding the cause-effect relationship is important. One such domain is\ndrug discovery, in which such understanding is required to make sense of data\notherwise plagued by spurious correlations. Said spuriousness only becomes\nworse with the ongoing trend of ever-increasing amounts of data in the life\nsciences and thereby restricts researchers in their ability to understand\ndisease biology and create better therapeutics. Therefore, to advance the\nscience of drug discovery with AI it is becoming necessary to formulate the key\nproblems in the language of causality, which allows the explication of\nmodelling assumptions needed for identifying true cause-effect relationships.\n  In this attention paper, we present causal drug discovery as the craft of\ncreating models that ground the process of drug discovery in causal reasoning.",
+      "url": "http://arxiv.org/abs/2212.12560v1",
+      "pdf_url": "http://arxiv.org/pdf/2212.12560v1",
+      "published": "2022-12-23T19:35:51Z",
+      "authors": [
+        "Kieran Didi",
+        "Matej Ze\u010devi\u0107"
+      ]
+    },
+    {
+      "title": "Synthetic Data from Diffusion Models Improve Drug Discovery Prediction",
+      "summary": "Artificial intelligence (AI) is increasingly used in every stage of drug\ndevelopment. Continuing breakthroughs in AI-based methods for drug discovery\nrequire the creation, improvement, and refinement of drug discovery data. We\nposit a new data challenge that slows the advancement of drug discovery AI:\ndatasets are often collected independently from each other, often with little\noverlap, creating data sparsity. Data sparsity makes data curation difficult\nfor researchers looking to answer key research questions requiring values posed\nacross multiple datasets. We propose a novel diffusion GNN model Syngand\ncapable of generating ligand and pharmacokinetic data end-to-end. We show and\nprovide a methodology for sampling pharmacokinetic data for existing ligands\nusing our Syngand model. We show the initial promising results on the efficacy\nof the Syngand-generated synthetic target property data on downstream\nregression tasks with AqSolDB, LD50, and hERG central. Using our proposed model\nand methodology, researchers can easily generate synthetic ligand data to help\nthem explore research questions that require data spanning multiple datasets.",
+      "url": "http://arxiv.org/abs/2405.03799v1",
+      "pdf_url": "http://arxiv.org/pdf/2405.03799v1",
+      "published": "2024-05-06T19:09:37Z",
+      "authors": [
+        "Bing Hu",
+        "Ashish Saragadam",
+        "Anita Layton",
+        "Helen Chen"
+      ]
+    }
+  ]
+}

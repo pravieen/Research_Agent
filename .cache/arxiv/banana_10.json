@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-05-09T22:52:41.908450",
+  "papers": [
+    {
+      "title": "The Camel-Banana Problem",
+      "summary": "A camel can carry one banana at a time on its back. It is on a diet and\ntherefore can only have one banana at a time in its stomach. As soon as it has\neaten a banana it walks a mile and then it needs a new banana (in order to be\nable to continue its itinerary). Let there be a stock of N bananas at the\nborder of the desert. How far can the camel penetrate into the desert, starting\nat this point? (Of course it can form new stocks with transported bananas.)",
+      "url": "http://arxiv.org/abs/2403.19667v2",
+      "pdf_url": "http://arxiv.org/pdf/2403.19667v2",
+      "published": "2024-02-10T13:54:55Z",
+      "authors": [
+        "Michiel de Bondt"
+      ]
+    },
+    {
+      "title": "A camel with a less strict diet",
+      "summary": "A camel can carry $B$ bananas on its back. It can have $2$ bananas at a time\nin its stomach. For each mile the camel walks, the amount of bananas in its\nstomach decreases $1$. As soon as the amount of bananas in the camel's stomach\nis at most $1$, it can eat a new banana. When the camel's stomach is empty, the\ncamel must eat a new banana (in order to be able to continue its itinerary).\n  Let there be a stock of $N$ bananas at the border of the desert. How far can\nthe camel penetrate into the desert, starting at this point? (Of course it can\nform new stocks with transported bananas.)\n  The case $B=1$ is solved completely. The round trip variant is solved for\n$B=1$ as well. For $B=2$, the round trip variant is solved for $N$ which are a\npower of $2$ and $N \\le 8$, and estimated up to $1/(N-1)$ miles for general\n$N$.",
+      "url": "http://arxiv.org/abs/2404.02828v1",
+      "pdf_url": "http://arxiv.org/pdf/2404.02828v1",
+      "published": "2024-04-03T16:01:25Z",
+      "authors": [
+        "Michiel de Bondt"
+      ]
+    },
+    {
+      "title": "Twice-Marked Banana Graphs & Brill-Noether Generality",
+      "summary": "We analyze a family of graphs known as banana graphs, with two marked\nvertices, through the lens of Hurwitz-Brill-Noether theory. As an application,\nwe construct explicit new examples of finite graphs which are Brill-Noether\ngeneral. These are the first such examples since the analysis of chains of\nloops by Cools, Draisma, Payne and Robeva. The graphs constructed are chains of\nloops and \"theta graphs,\" which are banana graphs of genus 2. We also\ndemonstrate that almost all banana graphs of genus at least 3 cannot be used\nfor this purpose, due either to failure of a submodularity condition or to the\npresence of far too many inversions in certain permutations associated to\ndivisors called transmission permutations.",
+      "url": "http://arxiv.org/abs/2211.17258v1",
+      "pdf_url": "http://arxiv.org/pdf/2211.17258v1",
+      "published": "2022-11-30T18:55:01Z",
+      "authors": [
+        "Nathan Pflueger",
+        "Noah Solomon"
+      ]
+    },
+    {
+      "title": "Banana integrals in configuration space",
+      "summary": "We reconsider the computation of banana integrals at different loops, by\nworking in the configuration space, in any dimension. We show how the 2-loop\nbanana integral can be computed directly from the configuration space\nrepresentation, without the need to resort to differential equations, and we\ninclude the analytic extension of the diagram in the space of complex masses.\nWe also determine explicitly the $\\varepsilon$ expansion of the two loop banana\nintegrals, for $d=j-2\\varepsilon$, $j=2,3,4$.",
+      "url": "http://arxiv.org/abs/2304.00624v2",
+      "pdf_url": "http://arxiv.org/pdf/2304.00624v2",
+      "published": "2023-04-02T20:49:41Z",
+      "authors": [
+        "Sergio Luigi Cacciatori",
+        "Henri Epstein",
+        "Ugo Moschella"
+      ]
+    },
+    {
+      "title": "Banana Sub-Family Classification and Quality Prediction using Computer\n  Vision",
+      "summary": "India is the second largest producer of fruits and vegetables in the world,\nand one of the largest consumers of fruits like Banana, Papaya and Mangoes\nthrough retail and ecommerce giants like BigBasket, Grofers and Amazon Fresh.\nHowever, adoption of technology in supply chain and retail stores is still low\nand there is a great potential to adopt computer-vision based technology for\nidentification and classification of fruits. We have chosen banana fruit to\nbuild a computer vision based model to carry out the following three use-cases\n(a) Identify Banana from a given image (b) Determine sub-family or variety of\nBanana (c) Determine the quality of Banana. Successful execution of these\nuse-cases using computer-vision model would greatly help with overall inventory\nmanagement automation, quality control, quick and efficient weighing and\nbilling which all are manual labor intensive currently. In this work, we\nsuggest a machine learning pipeline that combines the ideas of CNNs, transfer\nlearning, and data augmentation towards improving Banana fruit sub family and\nquality image classification. We have built a basic CNN and then went on to\ntune a MobileNet Banana classification model using a combination of\nself-curated and publicly-available dataset of 3064 images. The results show an\noverall 93.4% and 100% accuracy for sub-family/variety and for quality test\nclassifications respectively.",
+      "url": "http://arxiv.org/abs/2204.02581v1",
+      "pdf_url": "http://arxiv.org/pdf/2204.02581v1",
+      "published": "2022-04-06T05:06:51Z",
+      "authors": [
+        "Narayana Darapaneni",
+        "Arjun Tanndalam",
+        "Mohit Gupta",
+        "Neeta Taneja",
+        "Prabu Purushothaman",
+        "Swati Eswar",
+        "Anwesh Reddy Paduri",
+        "Thangaselvi Arichandrapandian"
+      ]
+    },
+    {
+      "title": "Unweighted Donaldson-Thomas theory of the banana 3-fold with section\n  classes",
+      "summary": "We further the study of the Donaldson-Thomas theory of the banana threefolds\nwhich were recently discovered and studied in [Bryan'19]. These are smooth\nproper Calabi-Yau threefolds which are fibred by Abelian surfaces such that the\nsingular locus of a singular fibre is a non-normal toric curve known as a\n\"banana configuration\". In [Bryan'19] the Donaldson-Thomas partition function\nfor the rank 3 sub-lattice generated by the banana configurations is\ncalculated. In this article we provide calculations with a view towards the\nrank 4 sub-lattice generated by a section and the banana configurations. We\nrelate the findings to the Pandharipande-Thomas theory for a rational elliptic\nsurface and present new Gopakumar-Vafa invariants for the banana threefold.",
+      "url": "http://arxiv.org/abs/1907.01054v2",
+      "pdf_url": "http://arxiv.org/pdf/1907.01054v2",
+      "published": "2019-07-01T20:17:35Z",
+      "authors": [
+        "Oliver Leigh"
+      ]
+    },
+    {
+      "title": "Banana Ripeness Level Classification using a Simple CNN Model Trained\n  with Real and Synthetic Datasets",
+      "summary": "The level of ripeness is essential in determining the quality of bananas. To\ncorrectly estimate banana maturity, the metrics of international marketing\nstandards need to be considered. However, the process of assessing the maturity\nof bananas at an industrial level is still carried out using manual methods.\nThe use of CNN models is an attractive tool to solve the problem, but there is\na limitation regarding the availability of sufficient data to train these\nmodels reliably. On the other hand, in the state-of-the-art, existing CNN\nmodels and the available data have reported that the accuracy results are\nacceptable in identifying banana maturity. For this reason, this work presents\nthe generation of a robust dataset that combines real and synthetic data for\ndifferent levels of banana ripeness. In addition, it proposes a simple CNN\narchitecture, which is trained with synthetic data and using the transfer\nlearning technique, the model is improved to classify real data, managing to\ndetermine the level of maturity of the banana. The proposed CNN model is\nevaluated with several architectures, then hyper-parameter configurations are\nvaried, and optimizers are used. The results show that the proposed CNN model\nreaches a high accuracy of 0.917 and a fast execution time.",
+      "url": "http://arxiv.org/abs/2504.08568v1",
+      "pdf_url": "http://arxiv.org/pdf/2504.08568v1",
+      "published": "2025-04-11T14:24:30Z",
+      "authors": [
+        "Luis Chuquimarca",
+        "Boris Vintimilla",
+        "Sergio Velastin"
+      ]
+    },
+    {
+      "title": "Mobile-Based Deep Learning Models for Banana Diseases Detection",
+      "summary": "Smallholder farmers in Tanzania are challenged on the lack of tools for early\ndetection of banana diseases. This study aimed at developing a mobile\napplication for early detection of Fusarium wilt race 1 and black Sigatoka\nbanana diseases using deep learning. We used a dataset of 3000 banana leaves\nimages. We pre-trained our model on Resnet152 and Inceptionv3 Convolution\nNeural Network architectures. The Resnet152 achieved an accuracy of 99.2% and\nInceptionv3 an accuracy of 95.41%. On deployment using Android mobile phones,\nwe chose Inceptionv3 since it has lower memory requirements compared to\nResnet152. The mobile application on real environment detected the two diseases\nwith a confidence level of 99% of the captured leaf area. This result indicates\nthe potential in improving the yield of bananas by smallholder farmers using a\ntool for early detection of diseases.",
+      "url": "http://arxiv.org/abs/2004.03718v1",
+      "pdf_url": "http://arxiv.org/pdf/2004.03718v1",
+      "published": "2020-04-07T21:17:45Z",
+      "authors": [
+        "Sophia Sanga",
+        "Victor Mero",
+        "Dina Machuve",
+        "Davis Mwanganda"
+      ]
+    },
+    {
+      "title": "Energetic particle loss mechanisms in reactor-scale equilibria close to\n  quasisymmetry",
+      "summary": "Collisionless physics primarily determines the transport of fusion-born alpha\nparticles in 3D equilibria. Several transport mechanisms have been implicated\nin stellarator configurations, including stochastic diffusion due to class\ntransitions, ripple trapping, and banana drift-convective orbits. Given the\nguiding center dynamics in a set of six quasihelical and quasiaxisymmetric\nequilibria, we perform a classification of trapping states and transport\nmechanisms. In addition to banana drift convection and ripple transport, we\nobserve substantial non-conservation of the parallel adiabatic invariant which\ncan cause losses through diffusive banana tip motion. Furthermore, many lost\ntrajectories undergo transitions between trapping classes on longer time\nscales, either with periodic or irregular behavior. We discuss possible\noptimization strategies for each of the relevant transport mechanisms. We\nperform a comparison between fast ion losses and metrics for the prevalence of\nmechanisms such as banana-drift convection [1], transitioning orbits, and wide\norbit widths. Quasihelical configurations are found to have natural protection\nagainst ripple-trapping and diffusive banana tip motion leading to a reduction\nin prompt losses.",
+      "url": "http://arxiv.org/abs/2208.02351v2",
+      "pdf_url": "http://arxiv.org/pdf/2208.02351v2",
+      "published": "2022-08-03T21:22:28Z",
+      "authors": [
+        "E. J. Paul",
+        "A. Bhattacharjee",
+        "M. Landreman",
+        "D. Alex",
+        "J. L. Velasco",
+        "R. Nies"
+      ]
+    },
+    {
+      "title": "The Enumerative Geometry and Arithmetic of Banana Nano-Manifolds",
+      "summary": "A banana manifold is a Calabi-Yau threefold fibered by Abelian surfaces whose\nsingular fibers contain banana configurations: three rational curves meeting\neach other in two points. A nano-manifold is a Calabi-Yau threefold $X$ with\nvery small Hodge numbers: $h^{1,1}(X)+h^{2,1}(X)\\leq 6$. We construct four\nrigid banana nano-manifolds $\\tilde{X}_N$, $N\\in \\{5,6,8,9 \\}$, each with Hodge\nnumbers given by $(h^{1,1},h^{2,1})=(4,0)$.\n  We compute the Donaldson-Thomas partition function for banana curve classes\nand show that the associated genus $g$ Gromov-Witten potential is a genus 2\nmeromorphic Siegel modular form of weight $2g-2$ for a certain discrete\nsubgroup $P^{*}_{N} \\subset Sp_{4}(\\mathbb{R})$.\n  We also compute the weight 4 modular form whose $p$th Fourier coefficient is\ngiven by the trace of the action of Frobenius on $H^{3}_{et }(\\tilde{X}_N\n,{\\mathbb{Q}}_{l})$ for almost all prime $p$. We observe that it is the unique\nweight 4 cusp form on $\\Gamma_{0}(N)$.",
+      "url": "http://arxiv.org/abs/2405.04701v1",
+      "pdf_url": "http://arxiv.org/pdf/2405.04701v1",
+      "published": "2024-05-07T22:40:43Z",
+      "authors": [
+        "Jim Bryan",
+        "Stephen Pietromonaco"
+      ]
+    }
+  ]
+}

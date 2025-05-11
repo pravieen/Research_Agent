@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-05-11T00:12:48.355005",
+  "papers": [
+    {
+      "title": "Diffraction Gratings for Uniform Light Extraction from Light Guides",
+      "summary": "A theoretical approach for uniformly extracting light propagating through a\nlight guide plate is developed here. Typically, liquid crystal display\nmodalities utilize a backlit lighting system illuminated from the edge with\nlight emitting diodes. The backlight acts as a light guide plate and is coupled\nwith a diffuser sheet along the surface to uniformly extract the light. Our\napproach employs sub-micron diffraction gratings and eliminates the need for\ndiffuser sheets, while ensuring the uniform extraction of light. The physical\ndimensions of the grating are varied along the surface of the light guide plate\nto control the diffraction efficiency, thus determining the local viewing angle\nand emitted intensity.",
+      "url": "http://arxiv.org/abs/1909.12955v1",
+      "pdf_url": "http://arxiv.org/pdf/1909.12955v1",
+      "published": "2019-09-27T21:07:45Z",
+      "authors": [
+        "Micheal McLamb",
+        "Yanzeng Li",
+        "Serang Park",
+        "Marc Lata",
+        "Tino Hofmann"
+      ]
+    },
+    {
+      "title": "Light-Emitting Diodes in the Solid-State Lighting Systems",
+      "summary": "Red and green light-emitting diodes (LEDs) had been produced for several\ndecades before blue emitting diodes, suitable for lighting applications, were\nwidely available. Today, we have the possibility of combining the three\nfundamental colours to have a bright white light. And therefore, a new form of\nlighting, the solid-state lighting, has now become a reality. Here we discuss\nLEDs and some of their applications in displays and lamps.",
+      "url": "http://arxiv.org/abs/1411.6620v1",
+      "pdf_url": "http://arxiv.org/pdf/1411.6620v1",
+      "published": "2014-11-23T18:15:06Z",
+      "authors": [
+        "Amelia Carolina Sparavigna"
+      ]
+    },
+    {
+      "title": "THz light amplification by an visible light laser in the presence of the\n  plasma density gradient",
+      "summary": "A new mechanism for the THz light amplification is identified ina\nnon-resonant Raman scattering between the THz light and a visible light lasers.\nThe non-resonant scattering normally does not exchange the energy between E \\&M\nfields, but the presence of the plasma density gradientcreates an condition in\nwhich a visible light laser could transfer its energy into a tera-hertz (THz)\nlight via the laser-plasma interaction. The gain per length could reach 100\n(1000) per centimeter for the THz light (far infra-red light) amplification.",
+      "url": "http://arxiv.org/abs/2003.08231v1",
+      "pdf_url": "http://arxiv.org/pdf/2003.08231v1",
+      "published": "2020-03-07T16:55:57Z",
+      "authors": [
+        "S. Son"
+      ]
+    },
+    {
+      "title": "Sculpting light with paper for computational mobile phone microscopy",
+      "summary": "Many optical microscopy techniques rely on structured illumination by way of\na projected image (eg. structured illumination microscopy) or a tailored\nangular distribution of light (eg. ptychography). Electro-optical equipment\nsuch as spatial light modulators and light emitting diode (LED) arrays are\ncommonly used to sculpt light for these imaging schemes. However, these\nhigh-tech devices are not a requirement for light crafting. Patterned diffusely\nreflecting surfaces also imprint a spatio-angular structure onto reflected\nlight. We demonstrate that paper patterned with a standard commercial printer\ncan serve to structure the illumination light field for refocusing and stereo\nmicroscopy on a mobile phone microscope. Our results illustrate the utility of\npaper as a light sculpting element for low-tech computational imaging.",
+      "url": "http://arxiv.org/abs/2009.10595v1",
+      "pdf_url": "http://arxiv.org/pdf/2009.10595v1",
+      "published": "2020-09-21T02:09:01Z",
+      "authors": [
+        "Antony Orth"
+      ]
+    },
+    {
+      "title": "The probability density function of the arrival time of \u010cerenkov\n  light",
+      "summary": "The probability density function of the arrival time of \\v{C}erenkov light on\na photo-multiplier tube has been studied. This study covers light production,\ntransmission and detection. The light production includes the light from a\nmuon, the light from a shower and the light due to the energy loss of a muon.\nFor the transmission of light, the effects of dispersion, absorption and\nscattering in the medium are considered. For the detection of light, the\nangular acceptance and the quantum efficiency of the photo-multiplier tube are\ntaken into account.",
+      "url": "http://arxiv.org/abs/2305.19626v1",
+      "pdf_url": "http://arxiv.org/pdf/2305.19626v1",
+      "published": "2023-05-31T07:51:03Z",
+      "authors": [
+        "M. de Jong",
+        "E. van Campenhout"
+      ]
+    },
+    {
+      "title": "Adiabatic Light Guide with S-shaped Strips",
+      "summary": "A light guide is an essential part of many scintillator counters and light\ncollection systems. Our main interest is a light guide for a thin wide\nscintillator which has high light transmission while converting the area of the\nlight source to the shape of a photo-detector. We propose a variation of the\nlight guide which avoids a 90$\\rm ^o$ twist of the strips, reduces the length\nof the light pipe, and reduces the complexity of production. Detailed Monte\nCarlo simulation studies have been performed for a 3-strip S-shaped light-guide\nsystem.",
+      "url": "http://arxiv.org/abs/2402.14142v2",
+      "pdf_url": "http://arxiv.org/pdf/2402.14142v2",
+      "published": "2024-02-21T21:53:13Z",
+      "authors": [
+        "B. Wojtsekhowski",
+        "E. J. Brash",
+        "G. B. Franklin",
+        "A. Rosso",
+        "A. Sarty",
+        "A. Shahinyan",
+        "E. Zimmerman"
+      ]
+    },
+    {
+      "title": "Dense Light Field Reconstruction From Sparse Sampling Using Residual\n  Network",
+      "summary": "A light field records numerous light rays from a real-world scene. However,\ncapturing a dense light field by existing devices is a time-consuming process.\nBesides, reconstructing a large amount of light rays equivalent to multiple\nlight fields using sparse sampling arises a severe challenge for existing\nmethods. In this paper, we present a learning based method to reconstruct\nmultiple novel light fields between two mutually independent light fields. We\nindicate that light rays distributed in different light fields have the same\nconsistent constraints under a certain condition. The most significant\nconstraint is a depth related correlation between angular and spatial\ndimensions. Our method avoids working out the error-sensitive constraint by\nemploying a deep neural network. We solve residual values of pixels on epipolar\nplane image (EPI) to reconstruct novel light fields. Our method is able to\nreconstruct 2 to 4 novel light fields between two mutually independent input\nlight fields. We also compare our results with those yielded by a number of\nalternatives elsewhere in the literature, which shows our reconstructed light\nfields have better structure similarity and occlusion relationship.",
+      "url": "http://arxiv.org/abs/1806.05506v2",
+      "pdf_url": "http://arxiv.org/pdf/1806.05506v2",
+      "published": "2018-06-14T12:45:55Z",
+      "authors": [
+        "Mantang Guo",
+        "Hao Zhu",
+        "Guoqing Zhou",
+        "Qing Wang"
+      ]
+    },
+    {
+      "title": "Winning Lights Out with Fibonacci",
+      "summary": "Lights Out is a single-player electronic handheld game from the 1990s that\nfeatures a 5 by 5 grid of light-up buttons. The game begins with some lights on\nand others off. The goal is to turn off all lights but pressing a button\nchanges its state and changes the states of the buttons above and below and to\nthe left and right of the button. We examine a cylindrical Lights Out game in\nwhich the left side of the board is connected to the right. Moreover, instead\nof just on and off we let the lights have $k$ states for $k \\ge 2$. We then\napply a modified light chasing strategy in which we try to systematically turn\noff all lights in a row by pressing the buttons in the row below. We ask if the\ngame begins with all lights starting at the same state, how many rows must the\nboard have in order for all lights to be turned off using this type of modified\nlight chasing after we press the last row of lights. We connect this light\nchasing strategy to the Fibonacci numbers and are able to provide answer to our\nquestion by studying the Fibonacci numbers (mod $k$).",
+      "url": "http://arxiv.org/abs/2409.02946v1",
+      "pdf_url": "http://arxiv.org/pdf/2409.02946v1",
+      "published": "2024-08-29T02:40:46Z",
+      "authors": [
+        "Crista Arangala",
+        "Stephen Bailey",
+        "Kristen Mazur"
+      ]
+    },
+    {
+      "title": "Decoupling of heavy-quark loops in light-light and heavy-light quark\n  currents",
+      "summary": "Matching of light-light quark currents in QCD with a heavy flavour and in the\nlow-energy effective QCD is calculated in MSbar at two loops. Heavy-light HQET\ncurrents are similarly considered.",
+      "url": "http://arxiv.org/abs/hep-ph/9810358v1",
+      "pdf_url": "http://arxiv.org/pdf/hep-ph/9810358v1",
+      "published": "1998-10-14T15:28:09Z",
+      "authors": [
+        "A. G. Grozin"
+      ]
+    },
+    {
+      "title": "Effect of light polarization on plasma distribution and filament\n  formation",
+      "summary": "We show that, for 200 fs light pulses at 790 nm, the formation of filaments\nis strongly affected by the laser light polarization . Filamentation does not\nexist for a pure circularly polarized light, propagating in vacuum before\nfocusing in air, while there is no difference for focusing the light in air or\nvacuum for linearly polarized light.",
+      "url": "http://arxiv.org/abs/1206.6933v1",
+      "pdf_url": "http://arxiv.org/pdf/1206.6933v1",
+      "published": "2012-06-29T03:49:25Z",
+      "authors": [
+        "L. Arissian",
+        "D. Mirell",
+        "J. Yeak",
+        "S. Rostami",
+        "J. -C. Diels"
+      ]
+    }
+  ]
+}

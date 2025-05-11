@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-05-11T00:29:10.960663",
+  "papers": [
+    {
+      "title": "Accelerating drug discovery with Artificial: a whole-lab orchestration\n  and scheduling system for self-driving labs",
+      "summary": "Self-driving labs are transforming drug discovery by enabling automated,\nAI-guided experimentation, but they face challenges in orchestrating complex\nworkflows, integrating diverse instruments and AI models, and managing data\nefficiently. Artificial addresses these issues with a comprehensive\norchestration and scheduling system that unifies lab operations, automates\nworkflows, and integrates AI-driven decision-making. By incorporating AI/ML\nmodels like NVIDIA BioNeMo - which facilitates molecular interaction prediction\nand biomolecular analysis - Artificial enhances drug discovery and accelerates\ndata-driven research. Through real-time coordination of instruments, robots,\nand personnel, the platform streamlines experiments, enhances reproducibility,\nand advances drug discovery.",
+      "url": "http://arxiv.org/abs/2504.00986v1",
+      "pdf_url": "http://arxiv.org/pdf/2504.00986v1",
+      "published": "2025-04-01T17:22:50Z",
+      "authors": [
+        "Yao Fehlis",
+        "Paul Mandel",
+        "Charles Crain",
+        "Betty Liu",
+        "David Fuller"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence Approaches for Anti-Addiction Drug Discovery",
+      "summary": "Drug addiction is a complex and pervasive global challenge that continues to\npose significant public health concerns. Traditional approaches to\nanti-addiction drug discovery have struggled to deliver effective therapeutics,\nfacing high attrition rates, long development timelines, and inefficiencies in\nprocessing large-scale data. Artificial intelligence (AI) has emerged as a\ntransformative solution to address these issues. Using advanced algorithms, AI\nis revolutionizing drug discovery by enhancing the speed and precision of key\nprocesses. This review explores the transformative role of AI in the pipeline\nfor anti-addiction drug discovery, including data collection, target\nidentification, and compound optimization. By highlighting the potential of AI\nto overcome traditional barriers, this review systematically examines how AI\naddresses critical gaps in anti-addiction research, emphasizing its potential\nto revolutionize drug discovery and development, overcome challenges, and\nadvance more effective therapeutic strategies.",
+      "url": "http://arxiv.org/abs/2502.03606v2",
+      "pdf_url": "http://arxiv.org/pdf/2502.03606v2",
+      "published": "2025-02-05T20:49:02Z",
+      "authors": [
+        "Dong Chen",
+        "Jian Jiang",
+        "Zhe Su",
+        "Guo-Wei Wei"
+      ]
+    },
+    {
+      "title": "DrugAgent: Automating AI-aided Drug Discovery Programming through LLM\n  Multi-Agent Collaboration",
+      "summary": "Recent progress in Large Language Models (LLMs) has drawn attention to their\npotential for accelerating drug discovery. However, a central problem remains:\ntranslating theoretical ideas into robust implementations in the highly\nspecialized context of pharmaceutical research. This limitation prevents\npractitioners from making full use of the latest AI developments in drug\ndiscovery. To address this challenge, we introduce DrugAgent, a multi-agent\nframework that automates machine learning (ML) programming for drug discovery\ntasks. DrugAgent employs an LLM Planner that formulates high-level ideas and an\nLLM Instructor that identifies and integrates domain knowledge when\nimplementing those ideas. We present case studies on three representative drug\ndiscovery tasks. Our results show that DrugAgent consistently outperforms\nleading baselines, including a relative improvement of 4.92% in ROC-AUC\ncompared to ReAct for drug-target interaction (DTI). DrugAgent is publicly\navailable at https://anonymous.4open.science/r/drugagent-5C42/.",
+      "url": "http://arxiv.org/abs/2411.15692v2",
+      "pdf_url": "http://arxiv.org/pdf/2411.15692v2",
+      "published": "2024-11-24T03:06:59Z",
+      "authors": [
+        "Sizhe Liu",
+        "Yizhou Lu",
+        "Siyu Chen",
+        "Xiyang Hu",
+        "Jieyu Zhao",
+        "Yingzhou Lu",
+        "Yue Zhao"
+      ]
+    },
+    {
+      "title": "ChatGPT in Drug Discovery: A Case Study on Anti-Cocaine Addiction Drug\n  Development with Chatbots",
+      "summary": "The birth of ChatGPT, a cutting-edge language model-based chatbot developed\nby OpenAI, ushered in a new era in AI. However, due to potential pitfalls, its\nrole in rigorous scientific research is not clear yet. This paper vividly\nshowcases its innovative application within the field of drug discovery.\nFocused specifically on developing anti-cocaine addiction drugs, the study\nemploys GPT-4 as a virtual guide, offering strategic and methodological\ninsights to researchers working on generative models for drug candidates. The\nprimary objective is to generate optimal drug-like molecules with desired\nproperties. By leveraging the capabilities of ChatGPT, the study introduces a\nnovel approach to the drug discovery process. This symbiotic partnership\nbetween AI and researchers transforms how drug development is approached.\nChatbots become facilitators, steering researchers towards innovative\nmethodologies and productive paths for creating effective drug candidates. This\nresearch sheds light on the collaborative synergy between human expertise and\nAI assistance, wherein ChatGPT's cognitive abilities enhance the design and\ndevelopment of potential pharmaceutical solutions. This paper not only explores\nthe integration of advanced AI in drug discovery but also reimagines the\nlandscape by advocating for AI-powered chatbots as trailblazers in\nrevolutionizing therapeutic innovation.",
+      "url": "http://arxiv.org/abs/2308.06920v2",
+      "pdf_url": "http://arxiv.org/pdf/2308.06920v2",
+      "published": "2023-08-14T03:43:57Z",
+      "authors": [
+        "Rui Wang",
+        "Hongsong Feng",
+        "Guo-Wei Wei"
+      ]
+    },
+    {
+      "title": "Structure-based drug discovery with deep learning",
+      "summary": "Artificial intelligence (AI) in the form of deep learning bears promise for\ndrug discovery and chemical biology, $\\textit{e.g.}$, to predict protein\nstructure and molecular bioactivity, plan organic synthesis, and design\nmolecules $\\textit{de novo}$. While most of the deep learning efforts in drug\ndiscovery have focused on ligand-based approaches, structure-based drug\ndiscovery has the potential to tackle unsolved challenges, such as affinity\nprediction for unexplored protein targets, binding-mechanism elucidation, and\nthe rationalization of related chemical kinetic properties. Advances in deep\nlearning methodologies and the availability of accurate predictions for protein\ntertiary structure advocate for a $\\textit{renaissance}$ in structure-based\napproaches for drug discovery guided by AI. This review summarizes the most\nprominent algorithmic concepts in structure-based deep learning for drug\ndiscovery, and forecasts opportunities, applications, and challenges ahead.",
+      "url": "http://arxiv.org/abs/2212.13295v1",
+      "pdf_url": "http://arxiv.org/pdf/2212.13295v1",
+      "published": "2022-12-26T20:52:26Z",
+      "authors": [
+        "R\u0131za \u00d6z\u00e7elik",
+        "Derek van Tilborg",
+        "Jos\u00e9 Jim\u00e9nez-Luna",
+        "Francesca Grisoni"
+      ]
+    },
+    {
+      "title": "On How AI Needs to Change to Advance the Science of Drug Discovery",
+      "summary": "Research around AI for Science has seen significant success since the rise of\ndeep learning models over the past decade, even with longstanding challenges\nsuch as protein structure prediction. However, this fast development inevitably\nmade their flaws apparent -- especially in domains of reasoning where\nunderstanding the cause-effect relationship is important. One such domain is\ndrug discovery, in which such understanding is required to make sense of data\notherwise plagued by spurious correlations. Said spuriousness only becomes\nworse with the ongoing trend of ever-increasing amounts of data in the life\nsciences and thereby restricts researchers in their ability to understand\ndisease biology and create better therapeutics. Therefore, to advance the\nscience of drug discovery with AI it is becoming necessary to formulate the key\nproblems in the language of causality, which allows the explication of\nmodelling assumptions needed for identifying true cause-effect relationships.\n  In this attention paper, we present causal drug discovery as the craft of\ncreating models that ground the process of drug discovery in causal reasoning.",
+      "url": "http://arxiv.org/abs/2212.12560v1",
+      "pdf_url": "http://arxiv.org/pdf/2212.12560v1",
+      "published": "2022-12-23T19:35:51Z",
+      "authors": [
+        "Kieran Didi",
+        "Matej Ze\u010devi\u0107"
+      ]
+    },
+    {
+      "title": "Synthetic Data from Diffusion Models Improve Drug Discovery Prediction",
+      "summary": "Artificial intelligence (AI) is increasingly used in every stage of drug\ndevelopment. Continuing breakthroughs in AI-based methods for drug discovery\nrequire the creation, improvement, and refinement of drug discovery data. We\nposit a new data challenge that slows the advancement of drug discovery AI:\ndatasets are often collected independently from each other, often with little\noverlap, creating data sparsity. Data sparsity makes data curation difficult\nfor researchers looking to answer key research questions requiring values posed\nacross multiple datasets. We propose a novel diffusion GNN model Syngand\ncapable of generating ligand and pharmacokinetic data end-to-end. We show and\nprovide a methodology for sampling pharmacokinetic data for existing ligands\nusing our Syngand model. We show the initial promising results on the efficacy\nof the Syngand-generated synthetic target property data on downstream\nregression tasks with AqSolDB, LD50, and hERG central. Using our proposed model\nand methodology, researchers can easily generate synthetic ligand data to help\nthem explore research questions that require data spanning multiple datasets.",
+      "url": "http://arxiv.org/abs/2405.03799v1",
+      "pdf_url": "http://arxiv.org/pdf/2405.03799v1",
+      "published": "2024-05-06T19:09:37Z",
+      "authors": [
+        "Bing Hu",
+        "Ashish Saragadam",
+        "Anita Layton",
+        "Helen Chen"
+      ]
+    },
+    {
+      "title": "DTI-SNNFRA: Drug-Target interaction prediction by shared nearest\n  neighbors and fuzzy-rough approximation",
+      "summary": "In-silico prediction of repurposable drugs is an effective drug discovery\nstrategy that supplements de-nevo drug discovery from scratch. Reduced\ndevelopment time, less cost and absence of severe side effects are significant\nadvantages of using drug repositioning. Most recent and most advanced\nartificial intelligence (AI) approaches have boosted drug repurposing in terms\nof throughput and accuracy enormously. However, with the growing number of\ndrugs, targets and their massive interactions produce imbalanced data which may\nnot be suitable as input to the classification model directly. Here, we have\nproposed DTI-SNNFRA, a framework for predicting drug-target interaction (DTI),\nbased on shared nearest neighbour (SNN) and fuzzy-rough approximation (FRA). It\nuses sampling techniques to collectively reduce the vast search space covering\nthe available drugs, targets and millions of interactions between them.\nDTI-SNNFRA operates in two stages: first, it uses SNN followed by a\npartitioning clustering for sampling the search space. Next, it computes the\ndegree of fuzzy-rough approximations and proper degree threshold selection for\nthe negative samples' undersampling from all possible interaction pairs between\ndrugs and targets obtained in the first stage. Finally, classification is\nperformed using the positive and selected negative samples. We have evaluated\nthe efficacy of DTI-SNNFRA using AUC (Area under ROC Curve), Geometric Mean,\nand F1 Score. The model performs exceptionally well with a high prediction\nscore of 0.95 for ROC-AUC. The predicted drug-target interactions are validated\nthrough an existing drug-target database (Connectivity Map (Cmap)).",
+      "url": "http://arxiv.org/abs/2009.10766v3",
+      "pdf_url": "http://arxiv.org/pdf/2009.10766v3",
+      "published": "2020-09-22T19:10:10Z",
+      "authors": [
+        "Sk Mazharul Islam",
+        "Sk Md Mosaddek Hossain",
+        "Sumanta Ray"
+      ]
+    },
+    {
+      "title": "Generative chemistry: drug discovery with deep learning generative\n  models",
+      "summary": "The de novo design of molecular structures using deep learning generative\nmodels introduces an encouraging solution to drug discovery in the face of the\ncontinuously increased cost of new drug development. From the generation of\noriginal texts, images, and videos, to the scratching of novel molecular\nstructures, the incredible creativity of deep learning generative models\nsurprised us about the height machine intelligence can achieve. The purpose of\nthis paper is to review the latest advances in generative chemistry which\nrelies on generative modeling to expedite the drug discovery process. This\nreview starts with a brief history of artificial intelligence in drug discovery\nto outline this emerging paradigm. Commonly used chemical databases, molecular\nrepresentations, and tools in cheminformatics and machine learning are covered\nas the infrastructure for the generative chemistry. The detailed discussions on\nutilizing cutting-edge generative architectures, including recurrent neural\nnetwork, variational autoencoder, adversarial autoencoder, and generative\nadversarial network for compound generation are focused. Challenges and future\nperspectives follow.",
+      "url": "http://arxiv.org/abs/2008.09000v1",
+      "pdf_url": "http://arxiv.org/pdf/2008.09000v1",
+      "published": "2020-08-20T14:38:21Z",
+      "authors": [
+        "Yuemin Bian",
+        "Xiang-Qun Xie"
+      ]
+    },
+    {
+      "title": "Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey",
+      "summary": "The integration of Artificial Intelligence (AI) into the field of drug\ndiscovery has been a growing area of interdisciplinary scientific research.\nHowever, conventional AI models are heavily limited in handling complex\nbiomedical structures (such as 2D or 3D protein and molecule structures) and\nproviding interpretations for outputs, which hinders their practical\napplication. As of late, Graph Machine Learning (GML) has gained considerable\nattention for its exceptional ability to model graph-structured biomedical data\nand investigate their properties and functional relationships. Despite\nextensive efforts, GML methods still suffer from several deficiencies, such as\nthe limited ability to handle supervision sparsity and provide interpretability\nin learning and inference processes, and their ineffectiveness in utilising\nrelevant domain knowledge. In response, recent studies have proposed\nintegrating external biomedical knowledge into the GML pipeline to realise more\nprecise and interpretable drug discovery with limited training instances.\nHowever, a systematic definition for this burgeoning research direction is yet\nto be established. This survey presents a comprehensive overview of\nlong-standing drug discovery principles, provides the foundational concepts and\ncutting-edge techniques for graph-structured data and knowledge databases, and\nformally summarises Knowledge-augmented Graph Machine Learning (KaGML) for drug\ndiscovery. we propose a thorough review of related KaGML works, collected\nfollowing a carefully designed search methodology, and organise them into four\ncategories following a novel-defined taxonomy. To facilitate research in this\npromptly emerging field, we also share collected practical resources that are\nvaluable for intelligent drug discovery and provide an in-depth discussion of\nthe potential avenues for future advancements.",
+      "url": "http://arxiv.org/abs/2302.08261v3",
+      "pdf_url": "http://arxiv.org/pdf/2302.08261v3",
+      "published": "2023-02-16T12:38:01Z",
+      "authors": [
+        "Zhiqiang Zhong",
+        "Anastasia Barkova",
+        "Davide Mottin"
+      ]
+    }
+  ]
+}

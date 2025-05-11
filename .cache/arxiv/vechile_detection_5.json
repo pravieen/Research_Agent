@@ -1,0 +1,70 @@
+{
+  "timestamp": "2025-05-11T14:03:37.705236",
+  "papers": [
+    {
+      "title": "Closures of $3$-braids and detection",
+      "summary": "We give some new link detection results for link Floer homology, Khovanov\nhomology and annular Khovanov homology. The links we detect arise via different\nclosure operations on $3$-braids. Examples of our results include that link\nFloer homology detects the Mazur link, that annular Khovanov homology detects\nthe Mazur pattern, and that Khovanov homology detects L6a2 and L9n15. The Mazur\npattern detection result depends on a new bound on the rank of the annular\nKhovanov homology of certain links.",
+      "url": "http://arxiv.org/abs/2407.11145v1",
+      "pdf_url": "http://arxiv.org/pdf/2407.11145v1",
+      "published": "2024-07-15T18:09:07Z",
+      "authors": [
+        "Fraser Binns"
+      ]
+    },
+    {
+      "title": "Robust Anomaly Detection and Backdoor Attack Detection Via Differential\n  Privacy",
+      "summary": "Outlier detection and novelty detection are two important topics for anomaly\ndetection. Suppose the majority of a dataset are drawn from a certain\ndistribution, outlier detection and novelty detection both aim to detect data\nsamples that do not fit the distribution. Outliers refer to data samples within\nthis dataset, while novelties refer to new samples. In the meantime, backdoor\npoisoning attacks for machine learning models are achieved through injecting\npoisoning samples into the training dataset, which could be regarded as\n\"outliers\" that are intentionally added by attackers. Differential privacy has\nbeen proposed to avoid leaking any individual's information, when aggregated\nanalysis is performed on a given dataset. It is typically achieved by adding\nrandom noise, either directly to the input dataset, or to intermediate results\nof the aggregation mechanism. In this paper, we demonstrate that applying\ndifferential privacy can improve the utility of outlier detection and novelty\ndetection, with an extension to detect poisoning samples in backdoor attacks.\nWe first present a theoretical analysis on how differential privacy helps with\nthe detection, and then conduct extensive experiments to validate the\neffectiveness of differential privacy in improving outlier detection, novelty\ndetection, and backdoor attack detection.",
+      "url": "http://arxiv.org/abs/1911.07116v1",
+      "pdf_url": "http://arxiv.org/pdf/1911.07116v1",
+      "published": "2019-11-16T23:32:20Z",
+      "authors": [
+        "Min Du",
+        "Ruoxi Jia",
+        "Dawn Song"
+      ]
+    },
+    {
+      "title": "Database Intrusion Detection Systems (DIDs): Insider Threat Detection\n  via Behavioural-based Anomaly Detection Systems -- A Brief Survey of Concepts\n  and Approaches",
+      "summary": "One of the data security and privacy concerns is of insider threats, where\nlegitimate users of the system abuse the access privileges they hold. The\ninsider threat to data security means that an insider steals or leaks sensitive\npersonal information. Database Intrusion detection systems, specifically\nbehavioural-based database intrusion detection systems, have been shown\neffective in detecting insider attacks. This paper presents background concepts\non database intrusion detection systems in the context of detecting insider\nthreats and examines existing approaches in the literature on detecting\nmalicious accesses by an insider to Database Management Systems (DBMS).",
+      "url": "http://arxiv.org/abs/2011.02308v1",
+      "pdf_url": "http://arxiv.org/pdf/2011.02308v1",
+      "published": "2020-11-04T14:12:03Z",
+      "authors": [
+        "Muhammad Imran Khan",
+        "Simon N. Foley",
+        "Barry O'Sullivan"
+      ]
+    },
+    {
+      "title": "Witness based nonlinear detection of quantum entanglement",
+      "summary": "We present a nonlinear entanglement detection strategy which detects\nentanglement that the linear detection strategy fails. We show that when the\nnonlinear entanglement detection strategy fails to detect the entanglement of\nan entangled state with two copies, it may succeed with three or more copies.\nBased on our strategy, a witness combined with a suitable quanutm mechanical\nobservable may detect the entanglement that can not be detected by the witness\nalone. Moreover, our strategy can also be applied to detect multipartite\nentanglement by using the witnesses for bipartite systems, as well as to\nentanglement concentrations.",
+      "url": "http://arxiv.org/abs/2502.02868v1",
+      "pdf_url": "http://arxiv.org/pdf/2502.02868v1",
+      "published": "2025-02-05T03:55:06Z",
+      "authors": [
+        "Yiding Wang",
+        "Tinggui Zhang",
+        "Xiaofen Huang",
+        "Shao-Ming Fei"
+      ]
+    },
+    {
+      "title": "Effects of detection-beam focal offset on displacement detection in\n  optical tweezers",
+      "summary": "A high-resolution displacement detection can be achieved by analyzing the\nscattered light of the trapping beams from the particle in optical tweezers. In\nsome applications where trapping and displacement detection need to be\nseparated, a detection beam can be introduced for independent displacement\ndetection. However, the detection beam focus possibly deviates from the centre\nof the particle, which will affect the performance of the displacement\ndetection. In this paper, we detect the radial displacement of the particle by\nutilizing the forward scattered light of the detection beam from the particle.\nThe effects of the lateral and axial offsets between the detection beam focus\nand the particle centre on the displacement detection are analyzed by the\nsimulation and experiment. The results show that the lateral offsets will\ndecrease the detection sensitivity and linear range and aggravate the crosstalk\nbetween the x-direction signal and y-direction signal of QPD. The axial offsets\nalso affect the detection sensitivity, an optimal axial offset can improve the\nsensitivity of the displacement detection substantially. In addition, the\ninfluence of system parameters, such as particle radius a, numerical aperture\nof the condenser NAc and numerical aperture of the objective NAo on the optimal\naxial offset are discussed. A combination of conventional optical tweezers\ninstrument and a detection beam provides a more flexible working point,\nallowing for the active modulation of the sensitivity and linear range of the\ndisplacement detection. This work would be of great interest for improving the\naccuracy of the displacement and force detection performed by the optical\ntweezers.",
+      "url": "http://arxiv.org/abs/2311.06088v1",
+      "pdf_url": "http://arxiv.org/pdf/2311.06088v1",
+      "published": "2023-11-10T14:41:04Z",
+      "authors": [
+        "Anni Chen",
+        "Hui Luo",
+        "Zhijie Chen",
+        "Haining Feng",
+        "Tengfang Kuang",
+        "Hui An",
+        "Xiang Han",
+        "Wei Xiong",
+        "Guangzong Xiao"
+      ]
+    }
+  ]
+}
